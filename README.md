@@ -40,3 +40,5 @@
 | bbox | string | bounding box  подозреваемого в формате: top_left_x,top_left_y,width,height|
 | token | string | ваш токен |
 | sign | string | подпись запроса |
+
+необходимо отправить offset либо frame, либо все вместе.
